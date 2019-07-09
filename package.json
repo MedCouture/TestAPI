@@ -1,0 +1,25 @@
+{
+  "name": "testapi",
+  "version": "1.0.0",
+  "description": "testing API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onaseer87/TestAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onaseer87/TestAPI/issues"
+  },
+  "homepage": "https://github.com/onaseer87/TestAPI#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0"
+  }
+}
